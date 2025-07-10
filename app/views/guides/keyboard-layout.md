@@ -1,4 +1,4 @@
-# Keyboard Layout Guide (more indepth :3)
+# Keyboard Layout Guide
 By Shayaan Doodekula (@shayaan on Slack)
 
 ### Notes:
